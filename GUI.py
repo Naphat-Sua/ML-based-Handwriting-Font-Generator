@@ -1,0 +1,2 @@
+app = FontGeneratorApp()
+app.run()
